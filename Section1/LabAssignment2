@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace Test2
+{
+	class Person
+	{
+		public static void Main(string[] args)
+		{
+		public int Age;
+		public string FirstName;
+		public string LastName;
+		public Person Spouse;
+		}
+	}
+}
